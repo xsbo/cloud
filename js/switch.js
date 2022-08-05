@@ -1,0 +1,39 @@
+<script>
+$("#ssrswitch").click(function () {
+if($("input[type='checkbox']").is(':checked')){  
+$("#ssrdiv").hide();  
+$("#ssdiv").show();  
+$("#switch_title").text("切换到SSR");
+}else{  
+$("#ssdiv").hide();  
+$("#ssrdiv").show();  
+$("#switch_title").text("切换到SS");
+}  
+});
+</script>
+<script>
+$("#detailssrswitch").click(function () {
+if($("input[type='checkbox']").is(':checked')){  
+$("#detailssrdiv").hide();  
+$("#detailssdiv").show();  
+$("#detailswitch_title").text("切换到SSR");
+}else{  
+$("#detailssdiv").hide();  
+$("#detailssrdiv").show();  
+$("#detailswitch_title").text("切换到SS");
+}  
+});
+</script>
+<script>
+$("#jsonssrswitch").click(function () {
+if($("input[type='checkbox']").is(':checked')){  
+$("#jsonssrdiv").hide();  
+$("#jsonssdiv").show();  
+$("#jsonswitch_title").text("切换到SSR");
+}else{  
+$("#jsonssdiv").hide();  
+$("#jsonssrdiv").show();  
+$("#jsonswitch_title").text("切换到SS");
+}  
+});
+</script>
