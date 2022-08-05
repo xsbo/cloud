@@ -1,0 +1,158 @@
+@font-face {
+  font-family: 'none-icon';
+  src:  url('fonts/none-icon.eot?qqk4gc');
+  src:  url('fonts/none-icon.eot?qqk4gc#iefix') format('embedded-opentype'),
+    url('fonts/none-icon.ttf?qqk4gc') format('truetype'),
+    url('fonts/none-icon.woff?qqk4gc') format('woff'),
+    url('fonts/none-icon.svg?qqk4gc#none-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="none-"], [class*=" none-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'none-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.none-aws:before {
+  content: "\e918";
+}
+.none-microsoftazure:before {
+  content: "\e929";
+}
+.none-chart-scatter:before {
+  content: "\e926";
+}
+.none-app-store-ios:before {
+  content: "\e927";
+}
+.none-new-android:before {
+  content: "\e925";
+}
+.none-tachometer:before {
+  content: "\e92a";
+}
+.none-loon:before {
+  content: "\e928";
+}
+.none-router:before {
+  content: "\e919";
+}
+.none-BBC:before {
+  content: "\e91a";
+}
+.none-hbo_go:before {
+  content: "\e91b";
+  color: #797f7e;
+}
+.none-bilibili-a:before {
+  content: "\e91c";
+}
+.none-bilibili-b:before {
+  content: "\e91d";
+  color: #5b5c5c;
+}
+.none-hulu:before {
+  content: "\e91e";
+}
+.none-azure:before {
+  content: "\e91f";
+}
+.none-netflix:before {
+  content: "\e920";
+}
+.none-spotify:before {
+  content: "\e921";
+}
+.none-youtube:before {
+  content: "\e922";
+}
+.none-alicloud:before {
+  content: "\e923";
+}
+.none-chinatelecom:before {
+  content: "\e924";
+}
+.none-quanx:before {
+  content: "\e917";
+}
+.none-QR-code:before {
+  content: "\e915";
+}
+.none-filter:before {
+  content: "\e916";
+}
+.none-go-to-link:before {
+  content: "\e914";
+}
+.none-clash-new:before {
+  content: "\e912";
+}
+.none-netch:before {
+  content: "\e911";
+}
+.none-sstap:before {
+  content: "\e910";
+}
+.none-surge:before {
+  content: "\e900";
+}
+.none-quantumult:before {
+  content: "\e901";
+}
+.none-surfboard:before {
+  content: "\e902";
+}
+.none-shadowrocket:before {
+  content: "\e903";
+}
+.none-finder:before {
+  content: "\e904";
+}
+.none-clash:before {
+  content: "\e905";
+}
+.none-crisp:before {
+  content: "\e906";
+}
+.none-mac:before {
+  content: "\e907";
+}
+.none-qrcode:before {
+  content: "\e908";
+}
+.none-wechat-pay:before {
+  content: "\e909";
+}
+.none-alipay:before {
+  content: "\e90a";
+}
+.none-linux:before {
+  content: "\e90b";
+}
+.none-atom:before {
+  content: "\e90c";
+}
+.none-v2rayng:before {
+  content: "\e90d";
+}
+.none-kitsunebi:before {
+  content: "\e90e";
+}
+.none-ssr:before {
+  content: "\e90f";
+}
+.none-wechat:before {
+  content: "\e913";
+}

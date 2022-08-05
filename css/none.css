@@ -1,0 +1,79 @@
+
+@font-face {
+    font-family: 'none';
+    src:url('../fonts/none-icons.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  [class^="none-"], [class*=" none-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'none' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .none-surge:before {
+    content: "\e900";
+  }
+  .none-quantumult:before {
+    content: "\e901";
+  }
+  .none-surfboard:before {
+    content: "\e902";
+  }
+  .none-shadowrocket:before {
+    content: "\e903";
+  }
+  .none-clash:before {
+    content: "\e905";
+  }
+  .none-crisp:before {
+    content: "\e906";
+  }
+  .none-mac:before {
+    content: "\e907";
+  }
+  .none-atom:before {
+    content: "\e90c";
+  }
+  .none-linux:before {
+    content: "\e90b";
+  }
+  .none-qrcode:before {
+    content: "\e908";
+  }
+  .none-wechat-pay:before {
+    content: "\e909";
+  }
+  .none-alipay:before {
+    content: "\e90a";
+  }
+  .none-finder:before {
+    content: "\e904";
+  }
+  .none-v2rayng:before {
+    content: "\e90d";
+  }
+  .none-kitsunebi:before {
+    content: "\e90e";
+  }
+  .none-ssr:before {
+    content: "\e90f";
+  }
+  .none-sstap:before {
+    content: "\e910";
+  }
+  .none-netch:before {
+    content: "\e911";
+  }
+    
+
